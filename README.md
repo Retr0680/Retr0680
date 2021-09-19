@@ -11,7 +11,7 @@
 
 - 🎮Gamer **I'm Good at Gaming**
 
-- 📫 How to reach me [[Mail](dedsecretr0680@gmail.com)
+- 📫 How to reach me [Mail](dedsecretr0680@gmail.com)
 
 - 🌱 I’m currently learning **Java, html, react**
 
