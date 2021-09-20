@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java, html, react**
 
-- 💬 Ask me about **Gaming and Python For now!**
+- 💬 Ask me about **Gaming and Python**
 
 - ⚡ Fun fact **Opening my Company very soon!**
 
