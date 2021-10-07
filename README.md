@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/retr0_680" target="blank"><img src="https://img.shields.io/twitter/follow/retr0_680?logo=twitter&style=for-the-badge" alt="retr0_680" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **Discord Bot** and **Artificial Intelligence**
 
 - 🎮Gamer **I'm Good at Gaming**
 
