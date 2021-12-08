@@ -26,6 +26,22 @@
     <img width="40px" height="40px" src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" alt="youtube">
 </a>
 
+<a style="margin:0px 2px;" href="https://www.hackerearth.com/@retr0_680">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth">
+</a>
+
+<a style="margin:0px 2px;" href="https://www.hackerrank.com/retr0_680">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="retr0_680">
+</a>
+
+<a style="margin:0px 2px;" href="https://stackoverflow.com/users/16942975">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16942975">
+</a>
+
+<a style="margin:0px 2px;" href="https://codepen.io/retr0680">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="retr0680">
+</a>
+
 ## 🏆GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Retr0680&theme=radical&margin-w=11&margin-h=10">
