@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Retr0�👾&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Retr0👾&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 <!-- ## I'm a passionate programmer and a student -->
 - 📝🔭 I’m currently working on Discord Bot and Artificial Intelligence
