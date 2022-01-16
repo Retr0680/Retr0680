@@ -51,10 +51,9 @@
 <details>
     <summary><h2 style="display:inline;">📈Coding Statistics</h2></summary>
     <p align="center">
-    <img style="margin-top: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0680&theme=solarized_dark"><br>
+    <img style="margin-top: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retr0_680theme=solarized_dark"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=radical"><br>
-    <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@Retr0_680/7e8dd472-5f74-41db-86e4-1a23ece90fc1.svg"><br>
-    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Retr0_680&layout=compact&theme=radical"><br>
+    <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@Retr0_680/3fea5591-cc02-44f2-8040-929c82a6a0fd.svg"><br>
     </p>
 </details>
 
