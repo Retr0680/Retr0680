@@ -2,7 +2,7 @@
 
 <!-- ## I'm a passionate programmer and a student -->
 - 📝🔭 I’m currently working on Discord Bot and Artificial Intelligence
-- 🏫I'm currently a 14 year old highschool freshman
+- 🏫I'm a 14 year old highschool freshman
 - ▶I like to make YouTube videos on [Gaming](https://www.youtube.com/channel/UCj-YgHAXSK2R62hMOytdMew/videos)
 
 ## 📧Reach me via:
