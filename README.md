@@ -74,7 +74,6 @@
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
     <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
     <img width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
     <img width="35px" height="40px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
 </p>
