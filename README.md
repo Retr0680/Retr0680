@@ -51,6 +51,7 @@
 <details>
     <summary><h2 style="display:inline;">📈Coding Statistics</h2></summary>
     <p align="center">
+    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=Retr0680&theme=dark&show_icons=true">
     <br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=radical"><br>
     <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@Retr0_680/e2b88f6a-50d6-4ce2-906d-859852da81c2.svg"><br>
