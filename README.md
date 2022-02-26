@@ -53,7 +53,7 @@
     <p align="center">
     <br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=radical"><br>
-    <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@Retr0_680/a9a3b9ff-58d1-410e-8986-c118be73e9a8.svg"><br>
+    <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@Retr0_680/e2b88f6a-50d6-4ce2-906d-859852da81c2.svg"><br>
     </p>
 </details>
 
