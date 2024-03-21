@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, C, C++ and more**
 
-- 👨‍💻 All of my projects are available at [here in Github]([here in Github](https://github.com/Retr0680?tab=repositories))
+- 👨‍💻 All of my projects are available at [here in Github](https://github.com/Retr0680?tab=repositories)
 
 - 💬 Ask me about **Gaming**
 
