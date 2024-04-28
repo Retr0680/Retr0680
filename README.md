@@ -32,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=retr0680&show_icons=true&locale=en" alt="retr0680" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retr0680&" alt="retr0680" /></p>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Retr0680/Retr0680/output/snake.svg" alt="Snake Animation" />
+
+###
