@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Retr0</h1>
 <h3 align="center">Gamer | Programmer | Vigilante</h3>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Retr0680/Retr0680/output/snake.svg" alt="Snake Animation" />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0680&label=Profile%20views&color=0e75b6&style=flat" alt="retr0680" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0680" alt="retr0680" /></a> </p>
@@ -30,12 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=retr0680&show_icons=true&locale=en" alt="retr0680" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retr0680&" alt="retr0680" /></p>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Retr0680/Retr0680/output/snake.svg" alt="Snake Animation" />
-
-###
