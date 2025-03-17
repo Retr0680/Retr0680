@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Retr0</h1>
 <h3 align="center">Gamer | Programmer | Vigilante</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0680&label=Profile%20views&color=0e75b6&style=flat" alt="retr0680" /> </p>
-
+[![wakatime](https://wakatime.com/badge/user/6fce47e6-f384-4fb2-9ab4-d7ce4a048eb8/project/75cfb9b3-5b90-428c-8677-8bf0bdf0e300.svg)](https://wakatime.com/badge/user/6fce47e6-f384-4fb2-9ab4-d7ce4a048eb8/project/75cfb9b3-5b90-428c-8677-8bf0bdf0e300)
 ###
 
 <br clear="both">
