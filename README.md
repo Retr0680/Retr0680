@@ -21,7 +21,19 @@
 > CORE THOUGHT: "Efficiency is not optional. It's the protocol."
 ```
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be injected here -->
+
+```c
+From: 02 April 2025 - To: 09 April 2025
+
+Total Time: 2 hrs 40 mins
+
+JavaScript   53 mins         ▒▒▒▒▒▒▒▒█████████████████   31.63 %
+CSS          36 mins         ▒▒▒▒▒████████████████████   21.80 %
+Python       31 mins         ▒▒▒▒▒████████████████████   18.65 %
+HTML         20 mins         ▒▒▒██████████████████████   12.04 %
+Other        7 mins          ▒████████████████████████   04.68 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
