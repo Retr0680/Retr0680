@@ -92,7 +92,7 @@ Mindset      : "No lag. No limits."
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retr0680" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=retr0680&theme=matrix&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
