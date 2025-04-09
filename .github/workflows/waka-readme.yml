@@ -19,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: Retr0680/ # optional
+          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
@@ -39,5 +39,5 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Retr0 # optional
-          AUTHOR_EMAIL: # optional
+          AUTHOR_EMAIL: dedsecretr0680@gmail.com # optional
           # you can populate email-id with secrets instead
