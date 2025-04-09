@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Retr0</h1>
 <h3 align="center">Gamer | Programmer | Vigilante</h3>
 
+<!--START_SECTION:waka-->
+🧬 SYSTEM PROTOCOL: WakaTelemetry.v1.7 [ACTIVE]
+=================================================
+> INITIATE WEEKLY DEV SCAN...
+
+[▸ TIME RANGE: LAST_7_DAYS]
+
+> STATUS: ACTIVE
+> REPO ENGAGED: VengeanceOS, TheKnight, ksu-hide-prop
+> TOOLS INTERFACE: VSCode, Neovim, Git CLI
+> SCHEDULED NEXT SYNC: 24h ⟳
+
+🧠 CORE THOUGHT:
+> "Efficiency is not optional. It's the protocol."
+<!--END_SECTION:waka-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0680&label=Profile%20views&color=0e75b6&style=flat" alt="retr0680" /> </p>
 
 ###
