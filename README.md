@@ -23,16 +23,17 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 5 hrs 17 mins
 
-Python       1 hr 19 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████   66.66 %
-TypeScript   20 mins         ▒▒▒▒█████████████████████   17.16 %
-Text         8 mins          ▒▒███████████████████████   06.79 %
-Bash         3 mins          ▒████████████████████████   02.58 %
-PowerShell   2 mins          █████████████████████████   01.76 %
-Other        1 min           █████████████████████████   01.40 %
+C++           2 hrs 43 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   51.10 %
+Python        1 hr 19 mins    ▒▒▒▒▒▒███████████████████   24.89 %
+TypeScript    20 mins         ▒▒███████████████████████   06.41 %
+CMake         12 mins         ▒████████████████████████   03.98 %
+Text          8 mins          ▒████████████████████████   02.53 %
+Bash          3 mins          █████████████████████████   00.96 %
+Other         2 mins          █████████████████████████   00.79 %
 ```
 
 <!--END_SECTION:waka-->
