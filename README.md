@@ -79,7 +79,7 @@ Mindset      : "No lag. No limits."
 
 ### 🧰 TOOLS OF THE TRADE
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode,neovim,c,cpp,python,bash,git,docker,react,nodejs,java,unreal" />
+  <img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode,html,python,javascript,bash,git,docker,react,nodejs,java" />
 </p>
 
 ---
