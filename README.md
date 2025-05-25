@@ -54,7 +54,7 @@ Other        1 min           ▒████████████████
   <a href="https://twitter.com/retr0_680"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/retr0_680"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/retr0_680"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/retr0_680"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <!-- <a href="https://www.youtube.com/c/retr0_680"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 </p>
 
 ---
