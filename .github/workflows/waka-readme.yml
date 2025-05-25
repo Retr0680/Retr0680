@@ -28,7 +28,7 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML Markdown
           COMMIT_MESSAGE: Updated Retr0’s Codex with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
