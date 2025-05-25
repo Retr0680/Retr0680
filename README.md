@@ -73,7 +73,7 @@ Target       : System Control & Streamlined Performance
 Mindset      : "No lag. No limits."
 ```
 
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Retr0680/Retr0680/master/uptime.json)
+<!--![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Retr0680/Retr0680/master/uptime.json) -->
 
 ---
 
