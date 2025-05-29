@@ -104,6 +104,3 @@ Mindset      : "No lag. No limits."
 </p>
 
 ---
-
-<!--> ⚠️ SYSTEM NOTE: All code, config, and chaos are part of the mission. -->
-<!--> Retr0 out. ⦿ -->
