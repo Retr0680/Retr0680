@@ -15,8 +15,6 @@
 > INITIATE WEEKLY DEV SCAN...
 > TIME RANGE: LAST_7_DAYS
 > STATUS: ACTIVE
-<!-- > REPO ENGAGED: VengeanceOS, TheKnight, ksu-hide-prop -->
-<!-- > TOOLS INTERFACE: VSCode, Neovim, Git CLI -->
 > CORE THOUGHT: "Efficiency is not optional. It's the protocol."
 ```
 <!--START_SECTION:waka-->
