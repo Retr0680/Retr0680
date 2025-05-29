@@ -38,7 +38,7 @@ Other        1 min           ▒████████████████
 
 ### 💻 ABOUT ME
 - 🔭 Currently building: `TheKnight` | `VengeanceOS` | `ksu-hide-prop`
-- 🌱 Actively learning: `Python`, `C`, `C++`, `Kernel Dev`, `ROM Crafting`
+- 🌱 Actively learning: `C`, `C++`, `Kernel Dev`, `ROM Crafting`
 - 🧩 Interests: Custom ROMs, KernelSU, OS Internals, System Optimization
 - 🎮 Gamer when idle; tactical when active
 - 📫 Reach me at: **dedsecretr0680@gmail.com**
