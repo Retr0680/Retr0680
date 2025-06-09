@@ -20,13 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 2 hrs 10 mins
+Total Time: 1 hr 21 mins
 
-Bash         44 mins         ▒▒▒▒▒▒▒▒█████████████████   30.20 %
-HTML         25 mins         ▒▒▒▒█████████████████████   17.67 %
-Other        16 mins         ▒▒▒██████████████████████   11.35 %
+Other        16 mins         ▒▒▒▒█████████████████████   16.72 %
 ```
 
 <!--END_SECTION:waka-->
