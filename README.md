@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Total Time: 1 hr 21 mins
+Total Time: 1 hr 9 mins
 
-Other        16 mins         ▒▒▒▒█████████████████████   16.72 %
+Other        15 mins         ▒▒▒▒█████████████████████   17.99 %
 ```
 
 <!--END_SECTION:waka-->
