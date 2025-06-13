@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
 Total Time: 1 hr 9 mins
 
