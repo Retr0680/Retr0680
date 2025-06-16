@@ -20,15 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 08 June 2025 - To: 15 June 2025
+From: 09 June 2025 - To: 16 June 2025
 
-Total Time: 14 mins
+Total Time: 9 mins
 
-Python       8 mins          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   57.87 %
-TypeScript   4 mins          ▒▒▒▒▒▒▒▒▒████████████████   34.41 %
-Bash         0 secs          █████████████████████████   00.42 %
-Text         0 secs          █████████████████████████   00.25 %
-Other        0 secs          █████████████████████████   00.12 %
+Python   8 mins          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒███   88.99 %
+Text     0 secs          █████████████████████████   00.39 %
+Other    0 secs          █████████████████████████   00.18 %
 ```
 
 <!--END_SECTION:waka-->
