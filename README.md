@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
-Total Time: 44 mins
+Total Time: 1 hr 30 mins
 
-HTML         14 mins         ▒▒▒▒▒▒▒▒█████████████████   30.99 %
-Python       8 mins          ▒▒▒▒▒████████████████████   18.13 %
-Other        1 min           ▒████████████████████████   02.74 %
+HTML         38 mins         ▒▒▒▒▒▒▒▒▒▒███████████████   40.60 %
+XML          12 mins         ▒▒▒██████████████████████   13.65 %
+Other        4 mins          ▒████████████████████████   04.32 %
 ```
 
 <!--END_SECTION:waka-->
