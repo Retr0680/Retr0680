@@ -22,15 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Total Time: 8 hrs 20 mins
+Total Time: 7 hrs 25 mins
 
-SCSS         1 hr 37 mins    ▒▒▒▒▒████████████████████   19.31 %
-HTML         1 hr 3 mins     ▒▒▒██████████████████████   12.67 %
-XML          13 mins         ▒████████████████████████   02.62 %
-JavaScript   8 mins          █████████████████████████   01.60 %
-Other        2 mins          █████████████████████████   00.58 %
+SCSS         1 hr 35 mins    ▒▒▒▒▒████████████████████   21.31 %
+HTML         39 mins         ▒▒███████████████████████   08.93 %
+JavaScript   8 mins          █████████████████████████   01.81 %
+XML          0 secs          █████████████████████████   00.07 %
+Git          0 secs          █████████████████████████   00.02 %
+Other        0 secs          █████████████████████████   00.02 %
 ```
 
 <!--END_SECTION:waka-->
