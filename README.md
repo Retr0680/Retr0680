@@ -22,11 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-Total Time: 8 mins
+Total Time: 1 hr 26 mins
 
-HTML       4 mins          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   58.76 %
+HTML       26 mins         ▒▒▒▒▒▒▒▒█████████████████   31.03 %
+Python     12 mins         ▒▒▒▒█████████████████████   14.50 %
+Git        0 secs          █████████████████████████   00.07 %
 ```
 
 <!--END_SECTION:waka-->
