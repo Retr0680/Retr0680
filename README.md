@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 31 July 2025 - To: 07 August 2025
+From: 01 August 2025 - To: 08 August 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 2 hrs 38 mins
 
-Python       2 hrs 5 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█   94.57 %
-Text         2 mins          ▒████████████████████████   02.20 %
-Other        1 min           █████████████████████████   01.38 %
+Python       2 hrs 32 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█   95.50 %
+Text         2 mins          █████████████████████████   01.82 %
+Other        1 min           █████████████████████████   01.14 %
 ```
 
 <!--END_SECTION:waka-->
