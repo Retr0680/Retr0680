@@ -22,15 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 47 mins
+Total Time: 26 mins
 
-Python       44 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██   92.89 %
-Bash         2 mins          ▒████████████████████████   04.24 %
-Text         0 secs          █████████████████████████   01.71 %
-Git Config   0 secs          █████████████████████████   01.07 %
-Git          0 secs          █████████████████████████   00.09 %
+Python   26 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   100.00 %
 ```
 
 <!--END_SECTION:waka-->
