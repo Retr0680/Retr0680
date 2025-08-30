@@ -22,15 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 5 hrs 41 mins
+Total Time: 6 hrs 13 mins
 
-C            3 hrs 24 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   59.82 %
-HTML         2 hrs 2 mins    ▒▒▒▒▒▒▒▒▒████████████████   35.85 %
-Python       7 mins          ▒████████████████████████   02.31 %
-TypeScript   5 mins          █████████████████████████   01.68 %
-Other        0 secs          █████████████████████████   00.13 %
+C            3 hrs 24 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   54.74 %
+HTML         2 hrs 2 mins    ▒▒▒▒▒▒▒▒█████████████████   32.80 %
+Bash         31 mins         ▒▒███████████████████████   08.38 %
+Python       8 mins          ▒████████████████████████   02.22 %
+TypeScript   5 mins          █████████████████████████   01.54 %
+Other        0 secs          █████████████████████████   00.12 %
 ```
 
 <!--END_SECTION:waka-->
