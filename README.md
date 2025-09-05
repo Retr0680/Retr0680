@@ -60,10 +60,6 @@ Git Config   0 secs          █████████████████
 
 ---
 
-<!--![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Retr0680/Retr0680/master/uptime.json) -->
-
----
-
 ### 🧰 TOOLS OF THE TRADE
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode,html,python,javascript,bash,git,docker,react,nodejs,java" />
