@@ -60,20 +60,6 @@ Git Config   0 secs          █████████████████
 
 ---
 
-### ⚔️ SYSTEM LOG
-```
-╔═════════════════════════════════════╗
-║ Retr0 // SYSTEM OVERRIDE: ENGAGED  ║
-╚═════════════════════════════════════╝
-
-User         : Retr0
-Gear         : R9 5900HX + RTX 3060 (130W)
-Ops          : ROM Engineering, Kernel Modding
-IDE Terminal : Neovim | VSCode | Git CLI
-Target       : System Control & Streamlined Performance
-Mindset      : "No lag. No limits."
-```
-
 <!--![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Retr0680/Retr0680/master/uptime.json) -->
 
 ---
