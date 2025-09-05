@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 5 hrs 19 mins
+Total Time: 6 hrs 13 mins
 
-Bash         1 hr 50 mins    ▒▒▒▒▒▒▒▒▒████████████████   34.52 %
-C            1 hr 49 mins    ▒▒▒▒▒▒▒▒▒████████████████   34.44 %
-Python       2 mins          █████████████████████████   00.90 %
-Git          0 secs          █████████████████████████   00.17 %
-TypeScript   0 secs          █████████████████████████   00.16 %
-Git Config   0 secs          █████████████████████████   00.02 %
+Bash         2 hrs 11 mins   ▒▒▒▒▒▒▒▒▒████████████████   35.28 %
+C            1 hr 37 mins    ▒▒▒▒▒▒▒██████████████████   26.15 %
+Python       0 secs          █████████████████████████   00.15 %
+Git          0 secs          █████████████████████████   00.14 %
+TypeScript   0 secs          █████████████████████████   00.13 %
+Git Config   0 secs          █████████████████████████   00.01 %
 ```
 
 <!--END_SECTION:waka-->
