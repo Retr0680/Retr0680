@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Total Time: 5 hrs 35 mins
+Total Time: 6 hrs 31 mins
 
-C          1 hr 18 mins    ▒▒▒▒▒▒███████████████████   23.42 %
-Bash       32 mins         ▒▒███████████████████████   09.76 %
-Git        0 secs          █████████████████████████   00.16 %
+C          2 hrs 26 mins   ▒▒▒▒▒▒▒▒▒████████████████   37.37 %
+Bash       22 mins         ▒████████████████████████   05.74 %
+Git        0 secs          █████████████████████████   00.14 %
 ```
 
 <!--END_SECTION:waka-->
