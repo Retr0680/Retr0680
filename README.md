@@ -22,12 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 4 hrs 50 mins
+Total Time: 4 hrs 19 mins
 
-C          3 hrs 14 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████   66.90 %
-Bash       6 mins          ▒████████████████████████   02.13 %
+C          3 hrs 15 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████   75.32 %
+Bash       25 mins         ▒▒███████████████████████   09.94 %
 ```
 
 <!--END_SECTION:waka-->
