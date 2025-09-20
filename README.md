@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=System+Protocol+Activated...;Code.+Hack.+Deploy." alt="Typing SVG" />
 </p>
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 <img src="https://raw.githubusercontent.com/Retr0680/Retr0680/output/snake.svg" alt="Snake animation" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0680&label=Profile%20views&color=0e75b6&style=flat" alt="retr0680" /> </p>
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 🧬 SYSTEM PROTOCOL: WakaTelemetry [ACTIVE]
 ```
@@ -32,7 +32,7 @@ Bash       21 mins         ▒▒▒▒▒▒▒▒█████████�
 
 <!--END_SECTION:waka-->
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 💻 ABOUT ME
 - 🔭 Currently building: `TheKnight` | `VengeanceOS` | `ksu-hide-prop`
@@ -41,7 +41,7 @@ Bash       21 mins         ▒▒▒▒▒▒▒▒█████████�
 - 🎮 Gamer when idle; tactical when active
 - 📫 Reach me at: **dedsecretr0680@gmail.com**
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 🔗 CONNECT
 
@@ -54,22 +54,23 @@ Bash       21 mins         ▒▒▒▒▒▒▒▒█████████�
   <!-- <a href="https://www.youtube.com/c/retr0_680"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 </p>
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 🧰 TOOLS OF THE TRADE
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode,html,python,javascript,bash,git,docker,react,nodejs,java" />
 </p>
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 📊 STATS
 
 ![](https://github-readme-stats.vercel.app/api?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Retr0680&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Retr0680&theme=blue-green&hide_border=true&area=true)
 
----
+<img src="/assets/Border2.gif" alt="Border2" width="100%">
 
 ### 🏆 TROPHIES
 
