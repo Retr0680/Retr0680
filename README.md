@@ -65,17 +65,9 @@ Bash       21 mins         ▒▒▒▒▒▒▒▒█████████�
 
 ### 📊 STATS
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=retr0680&show_icons=true&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=retr0680&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=retr0680&theme=matrix&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Retr0680&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
