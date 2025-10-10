@@ -64,10 +64,13 @@ No activity tracked
 
 ### 📊 STATS
 
+<p align="left"><img src="/github-metrics.svg" /></p>
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Retr0680&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!--
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <img src="/assets/Border2.gif" alt="Border2" width="100%">
