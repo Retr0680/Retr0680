@@ -65,7 +65,7 @@ No activity tracked
 ### 📊 STATS
 
 <p align="left"><img src="/github-metrics.svg" /></p>
-
+<p align="left"><img src="/metrics.plugin.isocalendar.fullyear.svg" /></p>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Retr0680&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Retr0680&theme=blue-green&hide_border=false)<br/>
