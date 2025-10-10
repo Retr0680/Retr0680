@@ -1,32 +1,20 @@
-name: Full-year calendar
+name: 📅 Full-year Calendar Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Run automatically once a day and allow manual triggering
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 
 jobs:
-  calendar:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: production
-    permissions:
-      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 📆 Generate full-year isocalendar metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-#uses: lowlighter/metrics@latest
-#with:
-#  filename: metrics.plugin.isocalendar.fullyear.svg
-#  token: ${{ secrets.GH_TOKEN }}
-#  base: ""
-#  plugin_isocalendar: yes
-#  plugin_isocalendar_duration: full-year
