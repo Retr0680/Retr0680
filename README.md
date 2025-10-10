@@ -76,7 +76,7 @@ No activity tracked
 
 ### 🏆 TROPHIES
 
-<p align="left"><img src="/metrics.plugin.achievements.compact.svg" /></p>
+![metrics_trophy](/metrics.plugin.achievements.compact.svg)
 
 <!--
 <p align="left">
