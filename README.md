@@ -22,13 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 51 mins
+Total Time: 1 hr 15 mins
 
-Python       4 mins          ▒▒███████████████████████   09.50 %
-Git Config   1 min           ▒████████████████████████   02.00 %
-Git          0 secs          █████████████████████████   00.11 %
+C            17 mins         ▒▒▒▒▒▒███████████████████   22.88 %
+Python       11 mins         ▒▒▒▒█████████████████████   14.88 %
+Git Config   1 min           █████████████████████████   01.38 %
+Git          0 secs          █████████████████████████   00.08 %
 ```
 
 <!--END_SECTION:waka-->
