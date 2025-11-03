@@ -22,12 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 26 October 2025 - To: 02 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-Total Time: 2 hrs 59 mins
+Total Time: 3 hrs 14 mins
 
-C          1 hr 44 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   56.53 %
-Other      5 mins          ▒████████████████████████   02.91 %
+C          1 hr 44 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   52.46 %
+C++        14 mins         ▒▒███████████████████████   07.30 %
+Other      5 mins          ▒████████████████████████   02.70 %
 ```
 
 <!--END_SECTION:waka-->
