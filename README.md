@@ -22,13 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 27 October 2025 - To: 03 November 2025
+From: 28 October 2025 - To: 04 November 2025
 
-Total Time: 3 hrs 14 mins
+Total Time: 4 hrs 2 mins
 
-C          1 hr 44 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   52.46 %
-C++        14 mins         ▒▒███████████████████████   07.30 %
-Other      5 mins          ▒████████████████████████   02.70 %
+C            2 hrs 15 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   54.57 %
+Python       46 mins         ▒▒▒▒▒████████████████████   18.60 %
+C++          14 mins         ▒████████████████████████   05.88 %
+Other        5 mins          ▒████████████████████████   02.18 %
 ```
 
 <!--END_SECTION:waka-->
