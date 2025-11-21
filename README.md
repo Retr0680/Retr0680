@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Total Time: 2 hrs 18 mins
+Total Time: 50 mins
 
-Other    1 hr 53 mins    ▒▒▒▒▒▒▒▒▒▒▒██████████████   45.19 %
+Other    1 hr 42 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████   66.89 %
 ```
 
 <!--END_SECTION:waka-->
