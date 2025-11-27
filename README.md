@@ -22,12 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-Total Time: 1 hr 52 mins
+Total Time: 2 hrs 1 min
 
-C            24 mins         ▒▒▒▒▒████████████████████   18.13 %
-Other        24 mins         ▒▒▒▒█████████████████████   17.57 %
+C            55 mins         ▒▒▒▒▒▒▒▒▒▒▒██████████████   45.35 %
+Git Config   4 mins          ▒████████████████████████   03.46 %
+Bash         1 min           █████████████████████████   00.96 %
+Other        1 min           █████████████████████████   00.85 %
 ```
 
 <!--END_SECTION:waka-->
