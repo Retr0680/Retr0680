@@ -1,4 +1,4 @@
-name: 🧩 Compact Achievements Display
+name: Compact Achievements Display
 
 on:
   # Runs automatically every 6 hours and manually via workflow dispatch
@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 🏗️ Generate compact achievements metrics
+      - name: Generate compact achievements metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
