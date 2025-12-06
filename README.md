@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 28 November 2025 - To: 05 December 2025
+From: 29 November 2025 - To: 06 December 2025
 
-Total Time: 2 hrs 27 mins
+Total Time: 1 hr 5 mins
 
-Bash       1 hr 2 mins     ▒▒▒▒▒▒▒▒▒▒▒██████████████   42.09 %
-C          39 mins         ▒▒▒▒▒▒▒██████████████████   26.69 %
-Other      0 secs          █████████████████████████   00.53 %
+C          39 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   59.72 %
+Bash       1 min           ▒████████████████████████   02.00 %
+Other      0 secs          █████████████████████████   01.18 %
 ```
 
 <!--END_SECTION:waka-->
