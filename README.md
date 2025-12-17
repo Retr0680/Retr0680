@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 09 December 2025 - To: 16 December 2025
+From: 10 December 2025 - To: 17 December 2025
 
 Total Time: 6 mins
 ```
