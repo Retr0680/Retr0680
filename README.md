@@ -22,15 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
 Total Time: 1 hr 40 mins
 
-Git Config   6 mins          ▒▒███████████████████████   06.33 %
-Python       5 mins          ▒████████████████████████   05.92 %
-JavaScript   3 mins          ▒████████████████████████   03.73 %
 Bash         0 secs          █████████████████████████   00.85 %
-Text         0 secs          █████████████████████████   00.45 %
+Text         0 secs          █████████████████████████   00.36 %
+JavaScript   0 secs          █████████████████████████   00.11 %
 Other        0 secs          █████████████████████████   00.04 %
 ```
 
