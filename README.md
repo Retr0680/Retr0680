@@ -22,12 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 1 hr 15 mins
+Total Time: 58 mins
 
-Bash   28 mins         ▒▒▒▒▒▒▒▒▒▒███████████████   38.15 %
-C      0 secs          █████████████████████████   00.84 %
+Bash       28 mins         ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   48.56 %
+C          0 secs          █████████████████████████   01.07 %
 ```
 
 <!--END_SECTION:waka-->
