@@ -75,11 +75,12 @@ C          19 mins               ▒▒▒▒███████████�
 
 <img src="/assets/Border2.gif" alt="Border2" width="100%">
 
+<!--
 ### 🏆 TROPHIES
 
 ![metrics_trophy](/metrics.plugin.achievements.compact.svg)
 
-<!--
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=retr0680&theme=matrix&column=7" alt="GitHub Trophies" />
 </p>
