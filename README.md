@@ -22,15 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-Total Time: 3 hrs 48 mins
+Total Time: 3 hrs 22 mins
 
-C            1 hr 39 mins          ▒▒▒▒▒▒▒▒▒▒▒██████████████   43.59 %
-Python       1 hr 29 mins          ▒▒▒▒▒▒▒▒▒▒███████████████   39.02 %
-Bash         26 mins               ▒▒▒██████████████████████   11.76 %
-Git          2 mins                █████████████████████████   01.18 %
-Git Config   1 min                 █████████████████████████   00.73 %
+C            1 hr 39 mins          ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   49.31 %
+Python       1 hr 35 mins          ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   47.36 %
+Bash         5 mins                ▒████████████████████████   02.53 %
+Git Config   1 min                 █████████████████████████   00.77 %
 ```
 
 <!--END_SECTION:waka-->
