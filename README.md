@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 24 February 2026 - To: 03 March 2026
+From: 25 February 2026 - To: 04 March 2026
 
-Total Time: 4 hrs 7 mins
+Total Time: 3 hrs 45 mins
 
-C        2 hrs 26 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   59.17 %
-Python   56 mins               ▒▒▒▒▒▒███████████████████   22.82 %
-Bash     44 mins               ▒▒▒▒█████████████████████   17.98 %
-Other    0 secs                █████████████████████████   00.03 %
+C        2 hrs 36 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████   69.38 %
+Bash     44 mins               ▒▒▒▒▒████████████████████   19.75 %
+Python   24 mins               ▒▒▒██████████████████████   10.83 %
+Other    0 secs                █████████████████████████   00.04 %
 ```
 
 <!--END_SECTION:waka-->
