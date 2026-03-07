@@ -22,13 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 27 February 2026 - To: 06 March 2026
+From: 28 February 2026 - To: 07 March 2026
 
-Total Time: 1 hr 41 mins
+Total Time: 1 hr 50 mins
 
-C       56 mins               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   55.94 %
-Bash    44 mins               ▒▒▒▒▒▒▒▒▒▒▒██████████████   43.98 %
-Other   0 secs                █████████████████████████   00.08 %
+C       56 mins               ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   49.44 %
+Bash    49 mins               ▒▒▒▒▒▒▒▒▒▒▒██████████████   42.89 %
+Text    4 mins                ▒████████████████████████   04.26 %
+Other   3 mins                ▒████████████████████████   03.41 %
 ```
 
 <!--END_SECTION:waka-->
