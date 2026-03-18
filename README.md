@@ -22,13 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 10 March 2026 - To: 17 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-Total Time: 19 mins
+Total Time: 47 mins
 
-Bash     11 mins               ▒▒▒▒▒▒▒▒▒▒███████████████   40.47 %
-Python   8 mins                ▒▒▒▒▒▒▒▒█████████████████   31.16 %
-Other    7 mins                ▒▒▒▒▒▒▒██████████████████   28.37 %
+C        24 mins               ▒▒▒▒▒▒▒▒▒▒▒██████████████   44.63 %
+Python   11 mins               ▒▒▒▒▒████████████████████   20.64 %
+Bash     11 mins               ▒▒▒▒▒████████████████████   20.48 %
+Other    7 mins                ▒▒▒▒█████████████████████   14.26 %
 ```
 
 <!--END_SECTION:waka-->
