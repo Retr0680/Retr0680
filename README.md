@@ -43,7 +43,7 @@ Text         0 secs                ███████████████
 - 🔭 Currently building: `TheKnight` | `VengeanceOS` | `ksu-hide-prop`
 - 🌱 Actively learning: `C`, `C++`, `Kernel Dev`, `ROM Crafting`
 - 🧩 Interests: Custom ROMs, KernelSU, OS Internals, System Optimization
-- 🎮 Gamer when idle; tactical when active
+- 🎮 Gamer
 - 📫 Reach me at: **dedsecretr0680@gmail.com**
 
 <img src="/assets/Border2.gif" alt="Border2" width="100%">
