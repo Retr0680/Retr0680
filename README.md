@@ -22,17 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Total Time: 4 hrs 27 mins
+Total Time: 3 hrs 22 mins
 
-Python       1 hr 46 mins          ▒▒▒▒▒▒▒▒▒▒███████████████   39.75 %
-HTML         1 hr 7 mins           ▒▒▒▒▒▒███████████████████   25.34 %
-C            49 mins               ▒▒▒▒▒████████████████████   18.57 %
-JavaScript   28 mins               ▒▒▒██████████████████████   10.56 %
-TypeScript   0 secs                █████████████████████████   00.27 %
-Git Config   0 secs                █████████████████████████   00.12 %
-Text         0 secs                █████████████████████████   00.01 %
+Python       1 hr 17 mins          ▒▒▒▒▒▒▒▒▒▒███████████████   38.40 %
+C            55 mins               ▒▒▒▒▒▒▒██████████████████   27.42 %
+HTML         28 mins               ▒▒▒▒█████████████████████   14.00 %
+JavaScript   27 mins               ▒▒▒██████████████████████   13.75 %
+Git Config   0 secs                █████████████████████████   00.08 %
 ```
 
 <!--END_SECTION:waka-->
