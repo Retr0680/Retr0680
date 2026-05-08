@@ -22,12 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Total Time: 1 hr 46 mins
+Total Time: 1 hr 18 mins
 
-Python   29 mins               ▒▒▒▒▒▒▒██████████████████   27.73 %
-C        28 mins               ▒▒▒▒▒▒▒██████████████████   26.33 %
+Python   29 mins               ▒▒▒▒▒▒▒▒▒████████████████   37.65 %
 ```
 
 <!--END_SECTION:waka-->
