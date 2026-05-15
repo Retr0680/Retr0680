@@ -38,7 +38,7 @@ Diff   1 min                 ▒▒███████████████
 - 🌱 Actively learning: `C`, `C++`, `Kernel Dev`, `ROM Crafting`
 - 🧩 Interests: Custom ROMs, KernelSU, OS Internals, System Optimization
 - 🎮 Gamer
-- 📫 Reach me at: **dedsecretr0680@gmail.com**
+- 📫 Reach me at: **retr0_680@proton.me**
 
 <img src="/assets/Border2.gif" alt="Border2" width="100%">
 
