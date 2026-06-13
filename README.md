@@ -22,16 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
-Total Time: 1 hr 49 mins
+Total Time: 41 mins
 
-Python        38 mins               ▒▒▒▒▒▒▒▒▒████████████████   34.73 %
-C++           17 mins               ▒▒▒▒█████████████████████   15.48 %
-JavaScript    8 mins                ▒▒███████████████████████   07.47 %
-Text          4 mins                ▒████████████████████████   04.47 %
-HTML          4 mins                ▒████████████████████████   04.30 %
-Objective-C   1 min                 █████████████████████████   01.62 %
+JavaScript   8 mins                ▒▒▒▒▒████████████████████   19.62 %
+HTML         3 mins                ▒▒███████████████████████   08.28 %
 ```
 
 <!--END_SECTION:waka-->
