@@ -51,7 +51,7 @@ Other        0 secs                ███████████████
   <a href="https://linkedin.com/in/retr0_680"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/retr0_680"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/793387363513401346"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=Proton_Mail&logo=protonmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="proton mail logo"  /></a>
   <!-- <a href="https://www.youtube.com/c/retr0_680"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 </p>
 
