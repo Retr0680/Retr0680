@@ -22,14 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 22 July 2026 - To: 29 July 2026
+From: 23 July 2026 - To: 30 July 2026
 
-Total Time: 2 hrs 36 mins
+Total Time: 1 hr 19 mins
 
-C          14 mins               ▒▒███████████████████████   09.36 %
-Bash       1 min                 █████████████████████████   01.23 %
-Binary     1 min                 █████████████████████████   00.76 %
-Python     0 secs                █████████████████████████   00.11 %
+C          14 mins               ▒▒▒▒▒████████████████████   18.49 %
+Bash       1 min                 ▒████████████████████████   02.43 %
+Binary     1 min                 █████████████████████████   01.51 %
 ```
 
 <!--END_SECTION:waka-->
