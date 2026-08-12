@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 1 hr 49 mins
+Total Time: 2 hrs 18 mins
 
-Python     16 mins               ▒▒▒▒█████████████████████   15.43 %
-C++        4 mins                ▒████████████████████████   03.88 %
-Other      0 secs                █████████████████████████   00.03 %
+Python     22 mins               ▒▒▒▒█████████████████████   16.07 %
+C++        4 mins                ▒████████████████████████   03.07 %
+Other      0 secs                █████████████████████████   00.02 %
 ```
 
 <!--END_SECTION:waka-->
