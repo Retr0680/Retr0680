@@ -22,16 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 32 mins
 
-Python       40 mins               ▒▒▒▒▒▒▒▒█████████████████   33.72 %
-Git Config   15 mins               ▒▒▒██████████████████████   12.53 %
-JavaScript   8 mins                ▒▒███████████████████████   07.39 %
-CSS          2 mins                ▒████████████████████████   02.16 %
-HTML         2 mins                █████████████████████████   01.71 %
-Text         1 min                 █████████████████████████   01.42 %
+Python     17 mins               ▒▒▒▒▒████████████████████   18.68 %
+Bash       10 mins               ▒▒▒██████████████████████   11.85 %
 ```
 
 <!--END_SECTION:waka-->
