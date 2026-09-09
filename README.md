@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-Total Time: 2 hrs 14 mins
+Total Time: 1 hr 53 mins
 
-Bash         49 mins               ▒▒▒▒▒▒▒▒▒████████████████   36.89 %
-Python       16 mins               ▒▒▒██████████████████████   12.41 %
-Git Config   3 mins                ▒████████████████████████   02.62 %
-CMake        1 min                 █████████████████████████   00.81 %
+Bash         49 mins               ▒▒▒▒▒▒▒▒▒▒▒██████████████   43.84 %
+Git Config   4 mins                ▒████████████████████████   03.76 %
+Python       3 mins                ▒████████████████████████   03.52 %
+CMake        1 min                 █████████████████████████   00.96 %
 ```
 
 <!--END_SECTION:waka-->
