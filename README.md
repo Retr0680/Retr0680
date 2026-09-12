@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 04 September 2026 - To: 11 September 2026
+From: 05 September 2026 - To: 12 September 2026
 
-Total Time: 2 hrs 11 mins
+Total Time: 2 hrs 30 mins
 
-Bash          37 mins               ▒▒▒▒▒▒▒██████████████████   28.83 %
-JavaScript    35 mins               ▒▒▒▒▒▒▒██████████████████   26.69 %
-CMake         11 mins               ▒▒███████████████████████   08.63 %
-Git Config    4 mins                ▒████████████████████████   03.24 %
-Python        0 secs                █████████████████████████   00.42 %
+JavaScript    38 mins               ▒▒▒▒▒▒███████████████████   25.57 %
+Bash          37 mins               ▒▒▒▒▒▒███████████████████   25.20 %
+CMake         11 mins               ▒▒███████████████████████   07.54 %
+Git Config    4 mins                ▒████████████████████████   02.83 %
+Python        0 secs                █████████████████████████   00.36 %
 KerboScript   0 secs                █████████████████████████   00.06 %
 ```
 
