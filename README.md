@@ -22,15 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 1 hr 53 mins
+Total Time: 1 hr 10 mins
 
-JavaScript    38 mins               ▒▒▒▒▒▒▒▒█████████████████   33.82 %
-C             11 mins               ▒▒▒██████████████████████   10.29 %
-CMake         10 mins               ▒▒███████████████████████   09.02 %
-Python        1 min                 █████████████████████████   01.00 %
-Other         0 secs                █████████████████████████   00.42 %
+C            20 mins               ▒▒▒▒▒▒▒██████████████████   28.45 %
+JavaScript   3 mins                ▒████████████████████████   04.73 %
+Python       1 min                 █████████████████████████   01.59 %
+Other        0 secs                █████████████████████████   00.72 %
 ```
 
 <!--END_SECTION:waka-->
