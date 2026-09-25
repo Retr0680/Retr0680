@@ -22,11 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 21 mins
-
-C          8 mins                ▒▒▒▒▒▒▒▒▒████████████████   37.76 %
+Total Time: 13 mins
 ```
 
 <!--END_SECTION:waka-->
