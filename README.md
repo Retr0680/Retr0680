@@ -22,9 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 44 mins
+Total Time: 1 hr 2 mins
 ```
 
 <!--END_SECTION:waka-->
