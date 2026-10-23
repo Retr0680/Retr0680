@@ -22,11 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 15 October 2026 - To: 22 October 2026
+From: 16 October 2026 - To: 23 October 2026
 
-Total Time: 50 mins
+Total Time: 1 hr 19 mins
 
-Git Config   0 secs                █████████████████████████   00.78 %
+XML            13 mins               ▒▒▒▒█████████████████████   16.50 %
+C++            10 mins               ▒▒▒██████████████████████   13.06 %
+Bash           1 min                 █████████████████████████   01.34 %
+Other          0 secs                █████████████████████████   00.83 %
 ```
 
 <!--END_SECTION:waka-->
