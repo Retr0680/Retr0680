@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```c
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 1 hr 29 mins
+Total Time: 1 hr 8 mins
 
-XML            13 mins               ▒▒▒▒█████████████████████   14.62 %
-C++            10 mins               ▒▒▒██████████████████████   11.57 %
-Bash           1 min                 █████████████████████████   01.18 %
-Other          1 min                 █████████████████████████   01.12 %
+XML            13 mins               ▒▒▒▒▒████████████████████   18.95 %
+C++            10 mins               ▒▒▒▒█████████████████████   15.00 %
+Bash           1 min                 █████████████████████████   01.54 %
+Other          1 min                 █████████████████████████   01.45 %
 ```
 
 <!--END_SECTION:waka-->
