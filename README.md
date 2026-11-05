@@ -12,27 +12,6 @@
 
 <img src="/assets/Border2.gif" alt="Border2" width="100%">
 
-### 🧬 SYSTEM PROTOCOL: WakaTelemetry [ACTIVE]
-```
-> INITIATE WEEKLY DEV SCAN...
-> TIME RANGE: LAST_7_DAYS
-> STATUS: ACTIVE
-> CORE THOUGHT: "Efficiency is not optional. It's the protocol."
-```
-<!--START_SECTION:waka-->
-
-```c
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 10 mins
-
-Other      0 secs                ▒████████████████████████   03.24 %
-```
-
-<!--END_SECTION:waka-->
-
-<img src="/assets/Border2.gif" alt="Border2" width="100%">
-
 ### 💻 ABOUT ME
 - 🔭 Currently building: `TheKnight` | `VengeanceOS` | `ksu-hide-prop`
 - 🌱 Actively learning: `C`, `C++`, `Kernel Dev`, `ROM Crafting`
